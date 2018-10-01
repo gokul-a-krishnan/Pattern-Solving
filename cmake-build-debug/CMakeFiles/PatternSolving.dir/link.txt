@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\PatternSolving.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\PatternSolving.dir/objects.a @CMakeFiles\PatternSolving.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PatternSolving.dir/objects.a -Wl,--no-whole-archive  -o PatternSolving.exe -Wl,--out-implib,libPatternSolving.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PatternSolving.dir\linklibs.rsp

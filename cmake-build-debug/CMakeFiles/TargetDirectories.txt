@@ -1,0 +1,3 @@
+C:/Users/ELCOT/CLionProjects/PatternSolving/cmake-build-debug/CMakeFiles/PatternSolving.dir
+C:/Users/ELCOT/CLionProjects/PatternSolving/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ELCOT/CLionProjects/PatternSolving/cmake-build-debug/CMakeFiles/rebuild_cache.dir
